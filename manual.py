@@ -1,4 +1,4 @@
-from testlib import*
+from Pair25ColorCode import*
 
 def print_manual():
   pair_number = 1

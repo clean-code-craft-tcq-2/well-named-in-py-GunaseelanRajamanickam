@@ -1,4 +1,4 @@
-from testlib import*
+from Pair25ColorCode import*
 
 
 def test_number_to_pair(pair_number,
